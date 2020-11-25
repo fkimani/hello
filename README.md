@@ -1,2 +1,2 @@
-# mailer-api
-Email Service
+# Some service api
+Some Service
